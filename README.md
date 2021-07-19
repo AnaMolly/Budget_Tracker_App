@@ -4,7 +4,9 @@
 
   ## Description
   This is a budget tracker app that enables the user to add and subtract funds from their tracker both online and offline. When offline, the user can add deposits and expenses and once they return online, the offline entries are added to the tracker and visible to the user. This application uses IndexDB, Service Workers and Web Manifest to enable offline functionality.
-  ![]()
+
+  ## Deployed application:
+  https://dry-retreat-70087.herokuapp.com/
 
   # Table of Contents
   - [Installation Instructions](#installation-instructions)
@@ -19,7 +21,8 @@
 
   # Usage
   To use the application, click on the heroku link above, or clone the repo (follow the installation instructions above)
-
+  ![](/public/images/Screenshot.png)
+  
   # Tests
   There were no tests included in this project.
 
